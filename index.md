@@ -18,7 +18,11 @@ title: PowerShell Documentation
                     <a data-default="true" href="#getstarted">Get Started</a>
                     <ul id="getstarted" class="cardsC">
                         <li>
-                            <a href="/powershell/scripting/powershell-scripting">
+                            <div class="cardText">
+                                <h3>Get started with Windows PowerShell</h3>
+                                <p>Learn how to use PowerShell.</p>
+                            </div>
+                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -27,17 +31,17 @@ title: PowerShell Documentation
                                                 <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-windows.svg" alt="" />
                                             </div>
                                         </div>
-                                        <div class="cardText">
-                                            <h3>Get started with Windows PowerShell</h3>
-                                            <p>Learn how to use PowerShell.</p>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
                             </a>
                         </li>
                         <li>
-                            <a href="/powershell/scripting/setup/installing-powershell">
+                            <div class="cardText">
+                                <h3>Setup and installation</h3>
+                                <p>Get PowerShell installed in your environment.</p>
+                            </div>
+                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-powershell?view=powershell-6">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -46,16 +50,12 @@ title: PowerShell Documentation
                                                 <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-setup.svg" alt="" />
                                             </div>
                                         </div>
-                                        <div class="cardText">
-                                            <h3>Setup and installation</h3>
-                                            <p>Get PowerShell installed in your environment.</p>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
                             </a>
                         </li>
-                        <li>
+ <li>
                             <a href="/powershell/scripting/getting-started/fundamental/sample-scripts-for-administration">
                             <div class="cardSize">
                                 <div class="cardPadding">
